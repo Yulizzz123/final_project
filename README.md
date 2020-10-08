@@ -6,9 +6,9 @@
 *Julia Zimpel*
 
 *Full-Time Data Analytics 2020-08, Campus Berlin, 09 Oct. 2020*
-
-Repository*: <Link> (https://github.com/Yulizzz123/final_project)
-
+\
+**Repository: <Link> (https://github.com/Yulizzz123/final_project)**
+\
 
 ## Content
 
@@ -118,24 +118,25 @@ The project folder contains the following files:
 | 10. | AB_Data_Wrangling_New_Test    |
     
 \    
-**8. Next Steps
+**8. Next Steps**
+    
 Next I will increase the test accuracy of my model by adjusting further hyperparameters and the model's architecture.
 Moreover, I will incorporate a recommendation engine based on deep learning in this project. 
       
     
 **9. Sources**
-
-The following sources have been used in this project:
     
+The following sources have been used in this project:
+\    
 Image Recognition in Python with TensorFlow and Keras
 <Link> (https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/)
-
+\
 Flower Classification with Deep Neural Network with Tensorflow and Python Programming
 <Link> (https://www.youtube.com/watch?v=POO1gdUJ7yE)
-
+\
 Classify Images Using Convolutional Neural Networks 
 <Link> (https://medium.com/@randerson112358/classify-images-using-convolutional-neural-networks-python-a89cecc8c679)
-    
+\   
 Deep Transfer Learning for Image Classification
 <Link> (https://towardsdatascience.com/deep-transfer-learning-for-image-classification-f3c7e0ec1a14)
 
