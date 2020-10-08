@@ -13,6 +13,7 @@
     
 ## Content
 
+\    
 **1. Project Description**
 
 In today's fast-moving world of **quick real-life encounters**, fashion becomes the more crucial in presenting oneself, and leaving a lasting impression on other people. The situation has been hightened by Covid-19 where leaving the home has become severely restricted, and dressing up is a rare chance to 'make it count'. 
@@ -32,7 +33,7 @@ Since many women do not wish to be suspected of wearing the same clothes on two 
 Recommenders may benefit several parties. Companies may increase **revenue and customer satisfaction** through cross-selling, while customers may **save time** in purchasing multiple items at once as well as in finding **favored choices**. Hence, this project is also a contribution to  the study of **business-customer interactions**. 
     
 
-    
+\    
 **2. Methodology**
 
 This project is mainly written in Python. For image recognition the state-of-the-art method of **Convolutional Neural Networks (CNN)** is employed by using the Tensorflow. CNN is a method from Deep Learning which has a higher efficiency and accuracy than other image recognition methods, such as kNN. For color detection, **kNN** is sufficient, and hence employed.
@@ -119,13 +120,13 @@ The project folder contains the following files:
 | 10. | AB_Data_Wrangling_New_Test    |
     
    
-    
+\    
 **8. Next Steps**
     
 Next I will increase the test accuracy of my model by adjusting further hyperparameters and the model's architecture.
 Moreover, I will incorporate a recommendation engine based on deep learning in this project. 
       
-    
+\    
 **9. Sources**
     
 The following sources have been used in this project:
