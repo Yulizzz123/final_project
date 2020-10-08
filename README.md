@@ -12,7 +12,7 @@
    
 ## Content    
       
-    
+<p>    
 **1. Project Description**
 
 In today's fast-moving world of **quick real-life encounters**, fashion becomes the more crucial in presenting oneself, and leaving a lasting impression on other people. The situation has been hightened by Covid-19 where leaving the home has become severely restricted, and dressing up is a rare chance to 'make it count'. 
@@ -30,8 +30,9 @@ This project seeks to develop a model that recommends fashion for **women** afte
 Since many women do not wish to be suspected of wearing the same clothes on two subsequent days (unpublished survey), a fashion piece of a **different color** is recommended. 
     
 Recommenders may benefit several parties. Companies may increase **revenue and customer satisfaction** through cross-selling, while customers may **save time** in purchasing multiple items at once as well as in finding **favored choices**. Hence, this project is also a contribution to  the study of **business-customer interactions**.         
-  
-    
+</p>   
+
+<p>  
 **2. Methodology**
 
 This project is mainly written in Python. For image recognition the state-of-the-art method of **Convolutional Neural Networks (CNN)** is employed by using the Tensorflow. CNN is a method from Deep Learning which has a higher efficiency and accuracy than other image recognition methods, such as kNN. For color detection, **kNN** is sufficient, and hence employed.
@@ -45,8 +46,9 @@ Working with large data volumes has led to the application of following insights
 | 1.  | Images are shrunk in size for deep learning.                                                           |
 | 2.  | Rather than creating long functions, code is split up into small components, and batches are employed. |
 | 3.  | To avoid long reruns of code, modules and separate worksheets are created.                             |  
+</p>    
   
-          
+<p>            
 **3. Questions and Hypotheses** 
 
 The model is created with **6 convolutional and pool layers and pools** to which the input sequentially passes.
@@ -63,8 +65,9 @@ Adjusting the hyperparameters, the following has proven to achieve an optimal re
 | 6.  | 15 epochs rather than 10, 12 or 20                                               |
 
 The large sample size of series A with 12,000 images achieves a test accuracy of **72%**, while the smaller sample size of series B with 1,500 images achieves a test accuracy of **65%**. The difference of only **7 percentage points lower** of test accuracy of an **eight times** smaller sample size suggests that by choosing the right hyperparamters already considerable results can be obtained.  
-      
-      
+</p>
+    
+<p>        
 **4. Dataset**
 
 The following sample datasets are used in the project:
@@ -76,8 +79,9 @@ The following sample datasets are used in the project:
 | Dress    | 60,768           | 4.000             | 500               |
 
 Since the samples are considerable low, only **10% of A and B respectively** are for testing to reserve a maximum amount of images for training.     
-      
-      
+</p>
+    
+<p>        
 **5. Database**
 
 The DeepFashion database contains over **800,000** images. From this the attribute prediction subset of **290,000** images is selected, of which further **subsets** for training and testing are formed (see dataset). 
@@ -87,8 +91,9 @@ The DeepFashion database contains over **800,000** images. From this the attribu
 
 For testing with a different database, the Fashion Product Image database is used, which comprises 44,440 images.
 "Fashion Product Images" <Link>(https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)  
-      
-      
+</p>
+    
+<p>        
 **6. Workflow**
     
 | No. | Activity                               |
@@ -98,8 +103,9 @@ For testing with a different database, the Fashion Product Image database is use
 | 3.  | Test Models  for Image Recognition     |
 | 4.  | Develop Model for Color Recognition    |
 | 5.  | Issue Recommendation                   |  
-      
-      
+</p>
+    
+<p>        
 **7. Organization**
 
 The project folder contains the following files:
@@ -116,14 +122,16 @@ The project folder contains the following files:
 | 8.  | B3_Create_and_Test_Model      |
 | 9.  | B4_Recommendation             |
 | 10. | AB_Data_Wrangling_New_Test    |  
-      
-            
+</p>
+    
+<p>              
 **8. Next Steps**
     
 Next I will increase the test accuracy of my model by adjusting further hyperparameters and the model's architecture.
 Moreover, I will incorporate a recommendation engine based on deep learning in this project.   
-      
-      
+</p>
+    
+<p>        
 **9. Sources**
     
 The following sources have been used in this project:
@@ -135,5 +143,5 @@ Flower Classification with Deep Neural Network with Tensorflow and Python Progra
 Classify Images Using Convolutional Neural Networks <Link> (https://medium.com/@randerson112358/classify-images-using-convolutional-neural-networks-python-a89cecc8c679)
 
 Deep Transfer Learning for Image Classification <Link> (https://towardsdatascience.com/deep-transfer-learning-for-image-classification-f3c7e0ec1a14)
-
+</p>
 
