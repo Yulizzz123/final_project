@@ -32,6 +32,7 @@ Since many women do not wish to be suspected of wearing the same clothes on two 
 Recommenders may benefit several parties. Companies may increase **revenue and customer satisfaction** through cross-selling, while customers may **save time** in purchasing multiple items at once as well as in finding **favored choices**. Hence, this project is also a contribution to  the study of **business-customer interactions**. 
     
 
+    
 **2. Methodology**
 
 This project is mainly written in Python. For image recognition the state-of-the-art method of **Convolutional Neural Networks (CNN)** is employed by using the Tensorflow. CNN is a method from Deep Learning which has a higher efficiency and accuracy than other image recognition methods, such as kNN. For color detection, **kNN** is sufficient, and hence employed.
@@ -118,6 +119,7 @@ The project folder contains the following files:
 | 10. | AB_Data_Wrangling_New_Test    |
     
    
+    
 **8. Next Steps**
     
 Next I will increase the test accuracy of my model by adjusting further hyperparameters and the model's architecture.
@@ -130,13 +132,10 @@ The following sources have been used in this project:
     
 Image Recognition in Python with TensorFlow and Keras <Link> (https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/)
     
-\
 Flower Classification with Deep Neural Network with Tensorflow and Python Programming <Link> (https://www.youtube.com/watch?v=POO1gdUJ7yE)
     
-\
 Classify Images Using Convolutional Neural Networks <Link> (https://medium.com/@randerson112358/classify-images-using-convolutional-neural-networks-python-a89cecc8c679)
 
-   
 Deep Transfer Learning for Image Classification <Link> (https://towardsdatascience.com/deep-transfer-learning-for-image-classification-f3c7e0ec1a14)
 
 
