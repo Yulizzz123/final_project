@@ -12,8 +12,8 @@
 
     
 ## Content
-
-\    
+  
+      
 **1. Project Description**
 
 In today's fast-moving world of **quick real-life encounters**, fashion becomes the more crucial in presenting oneself, and leaving a lasting impression on other people. The situation has been hightened by Covid-19 where leaving the home has become severely restricted, and dressing up is a rare chance to 'make it count'. 
@@ -65,8 +65,8 @@ Adjusting the hyperparameters, the following has proven to achieve an optimal re
 | 6.  | 15 epochs rather than 10, 12 or 20                                               |
 
 The large sample size of series A with 12,000 images achieves a test accuracy of **72%**, while the smaller sample size of series B with 1,500 images achieves a test accuracy of **65%**. The difference of only **7 percentage points lower** of test accuracy of an **eight times** smaller sample size suggests that by choosing the right hyperparamters already considerable results can be obtained. 
-    
-\
+  
+      
 **4. Dataset**
 
 The following sample datasets are used in the project:
@@ -78,8 +78,8 @@ The following sample datasets are used in the project:
 | Dress    | 60,768           | 4.000             | 500               |
 
 Since the samples are considerable low, only **10% of A and B respectively** are for testing to reserve a maximum amount of images for training.  
-
-\
+  
+      
 **5. Database**
 
 The DeepFashion database contains over **800,000** images. From this the attribute prediction subset of **290,000** images is selected, of which further **subsets** for training and testing are formed (see dataset). 
@@ -89,8 +89,8 @@ The DeepFashion database contains over **800,000** images. From this the attribu
 
 For testing with a different database, the Fashion Product Image database is used, which comprises 44,440 images.
 "Fashion Product Images" <Link>(https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
- 
-\
+  
+      
 **6. Workflow**
     
 | No. | Activity                               |
@@ -100,8 +100,8 @@ For testing with a different database, the Fashion Product Image database is use
 | 3.  | Test Models  for Image Recognition     |
 | 4.  | Develop Model for Color Recognition    |
 | 5.  | Issue Recommendation                   |
-    
-\
+  
+      
 **7. Organization**
 
 The project folder contains the following files:
@@ -118,15 +118,14 @@ The project folder contains the following files:
 | 8.  | B3_Create_and_Test_Model      |
 | 9.  | B4_Recommendation             |
 | 10. | AB_Data_Wrangling_New_Test    |
-    
-   
-\    
+  
+      
 **8. Next Steps**
     
 Next I will increase the test accuracy of my model by adjusting further hyperparameters and the model's architecture.
 Moreover, I will incorporate a recommendation engine based on deep learning in this project. 
+    
       
-\    
 **9. Sources**
     
 The following sources have been used in this project:
