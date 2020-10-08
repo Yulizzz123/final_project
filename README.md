@@ -103,20 +103,29 @@ For testing with a different database, the Fashion Product Image database is use
     
 ### **7. Organization**
 
+For the project a **series A and B** created with different sample sizes (see 2. Methodology). **Workbooks AB** refer to files that concern both series A and B, i.e. images from a **different dataset** are prepared for the model to be applied on.    
+    
 The project folder contains the following files:
 
-| No. | File                          |
-|:----|-------------------------------|
-| 1.  | README                        |
-| 2.  | A1_Data_Preprocessing         |
-| 3.  | A2_Extract_Transform          |
-| 4.  | A3_Create_and_Test_Model      |
-| 5.  | A4_Recommendation             |
-| 6.  | B1_Data_Preprocessing         |
-| 7.  | B2_Extract_Transform          |
-| 8.  | B3_Create_and_Test_Model      |
-| 9.  | B4_Recommendation             |
-| 10. | AB_Data_Wrangling_New_Test    |  
+| No. | File                                | Description                                    |
+|:----|-------------------------------------|------------------------------------------------|
+| 1.  | README                              | - summary of project outline                   |
+| 2.  | A1_Data_Preprocessing.ipynb         | - prepare data for series A                    |
+| 3.  | A2_Extract_Transform.ipynb          | - transform data for series A                  |
+| 4.  | A3_Create_and_Test_Model.ipynb      | - create and test model for series A           |
+| 5.  | A4_Recommendations.ipynb            | - create cross-selling offers                  |    
+| 6.  | B1_Data_Preprocessing.ipynb         | - prepare data for series B                    |
+| 7.  | B2_Extract_Transform.ipynb          | - transform data for series B                  |
+| 8.  | B3_Create_and_Test_Model.ipynb      | - create and test the model for series B       |
+| 9.  | B4_Recommendations.ipynb            | - create cross-selling offers                  |  
+| 10. | AB1_Data_Wrangling_New_Test.ipynb   | - prepare different dataset for simulation     |
+| 11. | AB2_Extract.ipynb                   | - prepare data access                          |
+| 12. | style_data.csv                      | - selection of images for the AB series        |  
+| 13. | styles.csv                          | - original data of the AB series               |
+| 14. | a_data.pickle                       | - load data for series A                       |
+| 15. | b_data.pickle                       | - load data for series B                       |
+| 16. | a_recognition.h5                    | - model of series A                            | 
+| 17. | b_recognition.h5                    | - model of series B                            |
 
     
 ### **8. Next Steps**
