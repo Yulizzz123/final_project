@@ -10,9 +10,9 @@
 **Repository: <Link> (https://github.com/Yulizzz123/final_project)**
 
 
+    
 ## Content
 
-\
 **1. Project Description**
 
 In today's fast-moving world of **quick real-life encounters**, fashion becomes the more crucial in presenting oneself, and leaving a lasting impression on other people. The situation has been hightened by Covid-19 where leaving the home has become severely restricted, and dressing up is a rare chance to 'make it count'. 
@@ -117,7 +117,7 @@ The project folder contains the following files:
 | 9.  | B4_Recommendation             |
 | 10. | AB_Data_Wrangling_New_Test    |
     
-\    
+   
 **8. Next Steps**
     
 Next I will increase the test accuracy of my model by adjusting further hyperparameters and the model's architecture.
@@ -136,7 +136,7 @@ Flower Classification with Deep Neural Network with Tensorflow and Python Progra
 \
 Classify Images Using Convolutional Neural Networks <Link> (https://medium.com/@randerson112358/classify-images-using-convolutional-neural-networks-python-a89cecc8c679)
 
-\   
+   
 Deep Transfer Learning for Image Classification <Link> (https://towardsdatascience.com/deep-transfer-learning-for-image-classification-f3c7e0ec1a14)
 
 
